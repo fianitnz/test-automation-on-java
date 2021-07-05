@@ -1,0 +1,10 @@
+.*
+.gradle
+.*swp
+!.gitignore
+
+
+app/bin
+app/build
+
+
